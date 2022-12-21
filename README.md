@@ -1,1 +1,1 @@
-This project demonstrate the basic of HTML
+This project demonstrates the basic of HTML
